@@ -1,8 +1,12 @@
 # Healthcare Data Analysis with Power BI
+![image](https://github.com/user-attachments/assets/fc0a5726-6832-43b3-aa65-78e81b3a39b4)
+
 
 ## Overview
 
-This project involves a comprehensive analysis of healthcare datasets using Power BI. The goal is to uncover trends and insights that can improve patient outcomes and optimize hospital operations. By integrating data cleaning, sophisticated data modeling, and DAX for advanced analytics, an interactive dashboard has been created to visualize key aspects of the healthcare data.
+* This project involves a comprehensive analysis of healthcare datasets using Power BI.
+* The goal is to uncover trends and insights that can improve patient outcomes and optimize hospital operations.
+* By integrating data cleaning, sophisticated data modeling, and DAX for advanced analytics, an interactive dashboard has been created to visualize key aspects of the healthcare data.
 
 This analysis was conducted as part of a case study for HealthStat Solutions, a company specializing in healthcare analytics.
 
@@ -57,6 +61,8 @@ The interactive Power BI dashboard provides a comprehensive view of the healthca
 
 ## Conclusion
 
-This healthcare data analysis successfully leveraged Power BI to process, model, and visualize key aspects of patient records and hospital treatment details. The resulting dashboard offers valuable insights into patient demographics, treatment effectiveness, hospital performance, and potential areas for improvement in healthcare delivery and operational efficiency. The findings can aid healthcare providers in making more informed decisions to enhance patient care and optimize resource allocation.
+* This healthcare data analysis successfully leveraged Power BI to process, model, and visualize key aspects of patient records and hospital treatment details.
+* The resulting dashboard offers valuable insights into patient demographics, treatment effectiveness, hospital performance, and potential areas for improvement in healthcare delivery and operational efficiency.
+* The findings can aid healthcare providers in making more informed decisions to enhance patient care and optimize resource allocation.
 
 ---
